@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 str = "Holberton School"
-str = "Holberton"
-str = "Hlberton"
+str = "Holberton School"
+str = "Hlberton School"
